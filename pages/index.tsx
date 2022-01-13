@@ -11,10 +11,7 @@ const Home: React.FC = () => {
                 minHeight: "100vh",
             }}
         >
-            <Header />
             <Main />
-            <Cards />
-            <Footer />
         </div>
     );
 };
